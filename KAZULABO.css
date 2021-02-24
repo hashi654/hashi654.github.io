@@ -1,0 +1,21 @@
+body{
+	font-family:sans-serif;
+	color:red;
+}
+
+
+.contents{
+	float:left;
+	width:25%;
+	color:black;
+	text-align:center;
+}
+
+.btn{
+	background-color:skyblue;
+	apacity:0.1;
+	padding:10px;
+	display:inline;
+	font-size:60px;
+	
+}
